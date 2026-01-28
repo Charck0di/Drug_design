@@ -94,7 +94,7 @@ This integrated framework bridges **statistical evidence** and **molecular mecha
 
 ---
 
-## 📁 Repository Contents *(example — adjust if needed)*
+## 📁 Repository Contents
 
 ```
 ├── meta_analysis/
