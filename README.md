@@ -1,1 +1,8 @@
-The purpose of this study was to evaluate how effectively inclusion complexes with cyclodextrins improve the solubility and increase the bioavailability of drugs. A systematic search was performed for studies, published in the English language from 2000 up to 2023, that reported pharmacokinetic parameters (PK) of drugs in inclusion complexes with cyclodextrin and produced 380 studies in total of which 11 were eligible.  Meta-analysis provided summary estimates for PK parameter estimates of different complex systems. Heterogeneity was assessed by estimation of the I2 statistic and visual inspection of forest plots. Summary of the area under the concentration–time curve (AUC) and maximum drug concentration in plasma (Cmax) estimates were compared and analyzed. Data were collected and obtained from a variety of sources, including PubMed and Scopus, for the purpose of the research. In randomized controlled trials sprague–dawley rats were administered cyclodextrin inclusion complex formulations, Cmax (Hedge’s [95%CI] 2.26 [1.57–2.96]; p=0.00), and AUC (Hedge’s [95%CI] 2.63 [1.65–3.92]; p=0.00) improved. Furthermore, molecular docking and molecular dynamics simulations were employed to investigate the best complex systems, providing insight into the interactions between cyclodextrins and guest molecules. The results showed that inclusion complexes enhanced bioavailability and solubility compared to reference drugs, offering valuable potential in early drug development by improving drug profile characteristics through cyclodextrin-based complexation.
+├── meta_analysis/
+│   ├── data/
+│   ├── scripts/
+│   └── results/
+├── docking/
+├── molecular_dynamics/
+├── free_energy/
+└── README.md
